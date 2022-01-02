@@ -13,9 +13,19 @@ A Machine Learning system learns from historical data, builds the prediction mod
 
 ![ML](https://static.javatpoint.com/tutorial/machine-learning/images/introduction-to-machine-learning2.png) 
 
-### **Features of Machine Learning**:
+### **Features of Machine Learning** :
 
 - Machine learning uses data to detect various patterns in a given dataset.
 - It can learn from past data and improve automatically.
 - It is a data-driven technology.
 - Machine learning is much similar to data mining as it also deals with the huge amount of the data.
+
+ Machine learning is used in `self-driving cars`, `cyber fraud detection`, `face recognition`, and `friend suggestion` by Facebook and many more applications exist. 
+
+ ### **Classification of Machine Learning** : 
+
+ - Categories of machine learning problems, and terminologies used in the field of machine learning are 
+    * **`Supervised learning`**
+    * **`Unsupervised learning`**
+    * **`Reinforcement learning`** 
+    
