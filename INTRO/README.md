@@ -1,5 +1,5 @@
 <p align = "center"> 
-<img src = "https://www.eurixgroup.com/wp-content/uploads/2021/01/ml-e1610553826718.jpg", width="250"/>
+<img src = "https://www.eurixgroup.com/wp-content/uploads/2021/01/ml-e1610553826718.jpg", width="350"/>
 </p> 
 
 
@@ -28,4 +28,6 @@ A Machine Learning system learns from historical data, builds the prediction mod
     * **`Supervised learning`**
     * **`Unsupervised learning`**
     * **`Reinforcement learning`** 
-    
+![classification](https://static.javatpoint.com/tutorial/machine-learning/images/classification-of-machine-learning.png) 
+
+#### `Supervised learning` : 
