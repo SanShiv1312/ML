@@ -28,6 +28,15 @@ A Machine Learning system learns from historical data, builds the prediction mod
     * **`Supervised learning`**
     * **`Unsupervised learning`**
     * **`Reinforcement learning`** 
-![classification](https://static.javatpoint.com/tutorial/machine-learning/images/classification-of-machine-learning.png) 
+
+<p>
+<img src="https://static.javatpoint.com/tutorial/machine-learning/images/classification-of-machine-learning.png" width="250"/>
+</p>
 
 #### `Supervised learning` : 
+The way of providing some sample labeled data to the machine learning system in order to train it, and on that basis, it predicts the output. 
+- The goal of Supervised learning is to map the input data with the output data 
+
+Basically supervised learning is when we teach or train the machine using data(training model) that is well labeled. After that, the machine is provided with a new unfamiliar set of data and now the supervised learning algorithm analyses the training model that is given previously and could be able to produce the desired output. 
+
+- Supervised learning deals with teaching a machine with a `well-labled data set`, just like a teacher spoon feeds a student with simple examples 😉
